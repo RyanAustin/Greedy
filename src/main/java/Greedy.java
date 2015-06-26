@@ -11,9 +11,10 @@ public class Greedy {
 
     public static void main(String[] varArgs) {
 
-            ApplicationContext context = new ClassPathXmlApplicationContext("application-context.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext("application-context.xml");
 
-            context.getBean("calculator");
+        CoinCalculator obj = (CoinCalculator) context.getBean("calculator");
+        System.out.println(obj.inputReader());
 
     }
 
