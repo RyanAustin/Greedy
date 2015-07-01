@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * User: mpmenne
+ * User: Ryan
  * Date: 6/18/14
  * Time: 3:06 AM
  */

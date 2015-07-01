@@ -2,7 +2,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * User: mpmenne
+ * User: Ryan
  * Date: 6/18/14
  * Time: 3:05 AM
  */
